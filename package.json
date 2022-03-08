@@ -1,6 +1,6 @@
 {
   "name": "react-native-ysdk-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ysdk",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
